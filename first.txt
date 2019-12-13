@@ -3,4 +3,8 @@ Scrieti ceva in el
 
 edit on branch c
 
+HEAD
 The 2nd person edited this.
+
+Person 1 is editing here
+refs/remotes/origin/master
